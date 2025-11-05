@@ -4,7 +4,7 @@ import subprocess
 # Define input video files
 video_files = ["vv01.mp4", "vv02.mp4"]
 concat_file = "file_list.txt"  # Temporary file for FFmpeg input
-output_file = "jake.mp4"
+output_file = "jakebates.mp4"
 
 
 def create_concat_file(video_files, concat_file):

@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/ venv/ env/
+.mypy_cache/ .pytest_cache/
+*.egg-info/ build/ dist/
+.DS_Store
